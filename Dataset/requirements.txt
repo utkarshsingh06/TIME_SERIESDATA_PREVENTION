@@ -1,0 +1,7 @@
+#python3 -m pip install -r requirements.txt
+numpy
+pandas
+loguru
+saxpy
+pathlib
+matplotlib
